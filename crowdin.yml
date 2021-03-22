@@ -1,0 +1,3 @@
+files:
+  - source: tpl/Faq/list.tpl
+    translation: '%two_letters_code%/tpl/Faq/list.tpl'
